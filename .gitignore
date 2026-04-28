@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.streamlit/
+.env
+.venv/
+venv/
+
+# Large local model artifacts can be copied into these folders for demo use.
+models/**/model.safetensors
+models/**/pytorch_model.bin
+models/**/optimizer.pt
+models/**/scheduler.pt
+models/**/trainer_state.json

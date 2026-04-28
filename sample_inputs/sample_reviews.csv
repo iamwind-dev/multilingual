@@ -1,0 +1,9 @@
+language,text,expected_sentiment
+English,"This product is amazing and works perfectly.",Positive
+English,"This product is terrible and broke after one day.",Negative
+Vietnamese,"Sản phẩm này rất tốt, giao hàng nhanh và tôi rất hài lòng.",Positive
+Vietnamese,"Sản phẩm quá tệ, pin yếu và dịch vụ hỗ trợ không tốt.",Negative
+French,"Ce produit est mauvais et ne fonctionne pas correctement.",Negative
+Spanish,"Este producto es excelente y funciona muy bien.",Positive
+German,"Das Produkt ist schlecht und sehr enttäuschend.",Negative
+Mixed,"The camera is excellent, but the battery life is terrible.",Mixed
